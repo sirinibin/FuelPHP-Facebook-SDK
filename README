@@ -15,3 +15,6 @@ Example usage (requires above mentioned class):
 	$logout_uri = Facebook::get_logout_uri();
 
 You can use both camel case and lowercase as I personally loathe camel case.
+
+by,
+    sirin k
